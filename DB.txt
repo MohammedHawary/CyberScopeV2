@@ -1,0 +1,31 @@
+database take from user input 
+
+Name , Description , Folder, Target, 
+
+Name => is Unique
+
+Description => Optional
+
+Folder => not empty
+
+Target => not empty
+
+
+data take from system
+
+Schedule , LastModify => linked with database take from user input or in the same table 
+
+
+data saved from scan result
+
+Severity 
+
+Vulnerability_name
+
+Description
+
+Soluation
+
+See_Also
+
+Output

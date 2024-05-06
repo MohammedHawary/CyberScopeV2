@@ -1,0 +1,36 @@
+#loginWidget{
+	background-color:rgb(255, 255, 255);
+	border-top: 7px solid rgb(63, 174, 73); 
+}
+
+LoginWindow{
+	    background-color:rgb(238, 238, 238);
+}
+
+#userNameInput,#passwordInput{
+    height: 40px; 
+    width: 432px;
+    font-size: 20px;
+	background-color:rgb(255, 255, 255);
+}
+
+#signInbtn{
+    height: 40px; 
+}
+
+#rememberMeCheckBox{
+	
+}
+
+#cyberScopeLabel{
+	color:rgb(63, 174, 73);
+}
+
+#signInbtn{
+	background-color:rgb(63, 174, 73);
+	color:rgb(255, 255, 255);
+    font-weight: bold;
+}
+#uncorerctMessageLabel{
+	color: red;
+}

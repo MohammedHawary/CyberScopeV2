@@ -1,0 +1,10 @@
+#widget_as QPushButton:hover {
+	background-color: rgba( 86, 101, 115, 0.5);
+}
+
+#widget_as QPushButton:checked {
+	color: #fff;
+}
+LoginWindow{
+	background-color: red;
+}

@@ -1,0 +1,36 @@
+/* style.qss */
+QPushButton#myScans_btn:checked,
+QPushButton#allScans_btn:checked,
+QPushButton#trash_btn:checked,
+QPushButton#myAccount_btn:checked,
+QPushButton#theme_btn:checked,
+QPushButton#about_btn:checked {
+    border-left: 5px solid rgb(63, 174, 73);
+    background-color: rgb(222, 222, 222);
+    color: black;
+    height: 40px;
+    font-size: 15px;
+    text-align: left;
+}
+
+QPushButton#myScans_btn,
+QPushButton#allScans_btn,
+QPushButton#trash_btn,
+QPushButton#myAccount_btn,
+QPushButton#theme_btn,
+QPushButton#about_btn {
+    height: 40px;
+    font-size: 15px;
+    border: none;
+    text-align: left;
+}
+
+QPushButton#myScans_btn:hover,
+QPushButton#allScans_btn:hover,
+QPushButton#trash_btn:hover,
+QPushButton#myAccount_btn:hover,
+QPushButton#theme_btn:hover,
+QPushButton#about_btn:hover {
+    background-color: rgb(38, 55, 70);
+    color: rgb(255, 255, 255);
+}
